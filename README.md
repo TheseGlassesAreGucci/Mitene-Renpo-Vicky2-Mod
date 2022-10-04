@@ -19,6 +19,8 @@ A new region, Balsa Islands, was created, which only has the Union in it (West a
 
 As flavor and for deeper immersion, the main menu buttons, the Play and Back buttons in the scenario map and the settings buttons ingame have been changed to a picture of the designated slots in the Binder from the Greed Island Arc; new custom loading screens of the map/regions have been added, including a full screen main menu background image from the 4th Opening (works best with 1920*1080 resolution); names for NGL and East Gorteau military leaders have been added based on characters that appeared in each country and finally, most of the Third OST has been added with another soundtrack from the Phantom Rouge OST, with Kingdom of Predators being the loading theme (I couldn't make each name custom, so I replaced the names of the default songs and replaced the music folder path in the .mod file). 
 
+The mod works with both base GFM and the Shattered World submod and are both standalone, so to install them simply extract the folders and .mod files.
+
 If any dev expresses interested in expanding the mod, or if anyone has any questions, feel free to contact me at Discord DiscoMagpie#4525.
 If you also notice any bugs, feel free to report them and I will try to fix them.
 
