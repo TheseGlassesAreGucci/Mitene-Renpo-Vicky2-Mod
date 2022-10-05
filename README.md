@@ -25,3 +25,5 @@ If any dev expresses interested in expanding the mod, or if anyone has any quest
 If you also notice any bugs, feel free to report them and I will try to fix them.
 
 Lastly, I had an idea of creating a very small circular province in NGL and adding the Chimera Ants, but emulating them in the game would be difficult as they didn't have much numbers, but each of them was individually extremely resilant and strong. As an offset, the Hunter Assosiation could also appear in the game through an event, but their numbers were also far too few in order to make them into a vicky style "army". If anyone has any ideas of implementing the entire Chimera Ant arc in the game, feel free to contact me and we could work it out.
+
+For download visit the moddb page: https://www.moddb.com/mods/mitene-union-hunter-x-hunter-mod-for-victoria-2
